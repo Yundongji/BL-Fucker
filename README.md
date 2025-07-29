@@ -6,7 +6,7 @@
 
 接线：<br>
 VCC - 手机电源（2.6～5.5V）<br>
-D - 尾插USB2.0数据线（推荐接D+，既DP）<br>
+DAT - 尾插USB2.0数据线（推荐接D+，既DP）<br>
 GND - 接手机GND<br>
 RF1 - 接一个433MHz的贴片天线<br>
 
